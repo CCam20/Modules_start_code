@@ -1,5 +1,5 @@
-import modules.task_list
-import modules.output 
+from modules.task_list import *
+from modules.output import *
 
 while (True):
     print_menu()
